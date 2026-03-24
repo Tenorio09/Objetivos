@@ -1,4 +1,17 @@
-h1{
-    font-size: 50px;
-    color: green;
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+:root{
+    --cor-de-fundo:#8CC7C4;
+    --cor-de-fundo:black;
+    --cor-texto-secundaria:#281C59;
+    --botao-ativo:#6984A9;
+    --botão-inativo:#36064D;
+
+}
+
+
+body{
+    background: var(--cor-de-fundo);
+    color: var(--cor-texto-principal);
+    font-family: "Montserrat", sans-serif;
 }
