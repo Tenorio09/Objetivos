@@ -33,5 +33,12 @@ body{
    font-size: 32px; 
 }
 .titulo-principal span{
-    
+    color:#8CC7C4 
+}
+
+.botao{
+    background-color: var(--botão-inativo);
+    display: flex;
+    justify-content: center;
+    padding: lem;
 }
