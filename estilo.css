@@ -41,4 +41,7 @@ body{
     display: flex;
     justify-content: center;
     padding: lem;
+    font-size: 10px;
+    align-items: center;
+    width: 100%;
 }
