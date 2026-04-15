@@ -62,7 +62,7 @@ body{
 .aba-conteudo.ativo{
     display: block;
 }
-.aba-conteudo{
+.aba-conteudo ativo{
     display: none;
 }
 .abas-textos{
