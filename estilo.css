@@ -2,13 +2,10 @@
 
 :root{
     --cor-de-fundo:#ffffff;
-    --cor-texto-secundaria:#281C59;
-    --botao-ativo:#6984A9;
-    --botao-inativo:#d295ee;
-
+    --cor-texto-principal:#281C59;
 
 }
-
+body{font-family: "Trispace", sans-serif;}
 
 body{
     background: var(--cor-de-fundo);
@@ -40,7 +37,7 @@ body{
     background-color: var(--botão-inativo);
     display: flex;
     justify-content: center;
-    padding: lem;
+    padding: 1em;
     font-size: 10px;
     align-items: center;
     width: 100%;
@@ -66,15 +63,22 @@ body{
     display: none;
 }
 .abas-textos{
-    background-color: var(--cor-de-fundo);
+    background-color: #6984A9;
     padding: 40px;
     border-radius: 0 0 40px 40px;
 }
 
-.conteudo-titulo-principal(
+.abas-textos{
+    background-color: #6984A9;
+    padding: 40px;
+    border-radius: 0 0 40px 40px;
+}
+
+.conteudo-titulo-principal{
     font-size: 28px;
     text-align: center;
-)
+}
+
 .conteudo-titulo-secundario{
     text-align: center;
     color: var(--cor-texto-secundaria);
@@ -90,7 +94,7 @@ body{
     text-align: center;
     min-width: 100px;
 }
-.contador-digito-numero{
+.contador-digito-numerico{
     font-size: 80px;
     margin: 0;
 }
