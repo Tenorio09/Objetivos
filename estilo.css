@@ -1,9 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
-
 :root{
     --cor-de-fundo:#ffffff;
     --cor-texto-principal:#281C59;
-
+    --cor-texto-secundario:#72BAA9;
+    --botao-inativo: #8ACBD0;
+    --botao-ativo: #462C7D;
 }
 body{font-family: "Trispace", sans-serif;}
 
