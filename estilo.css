@@ -63,17 +63,13 @@ body{
 .aba-conteudo{
     display: none;
 }
-.abas-textos{
+.abas-texto{
     background-color: #6984A9;
     padding: 40px;
     border-radius: 0 0 40px 40px;
 }
 
-.abas-textos{
-    background-color: #6984A9;
-    padding: 40px;
-    border-radius: 0 0 40px 40px;
-}
+
 
 .conteudo-titulo-principal{
     font-size: 28px;
