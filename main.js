@@ -42,4 +42,10 @@ function calculaTempo(tempoObjetivo){
     }
 }
 
+function atualizaCronometro(){
+
+}
+
+
+
 calculaTempo(tempoObjetivo1)
